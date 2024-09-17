@@ -4,7 +4,7 @@ Welcome to the **ToDo List App** project! This React-based application is design
 
 ## Project Overview
 
-The ToDo List App provides a sleek, responsive, and interactive experience, allowing users to manage tasks with ease. It uses React's state management to dynamically handle user input and render tasks, keeping the user updated on the number of completed and pending tasks.
+The ToDo List App provides a sleek, responsive, and interactive experience, allowing users to easily manage tasks. It uses React's state management to dynamically handle user input and render tasks, keeping the user updated on the number of completed and pending tasks.
 
 ## Features
 
@@ -24,4 +24,7 @@ The ToDo List App provides a sleek, responsive, and interactive experience, allo
 - **React**: Builds the core functionality and interface of the application, utilizing React hooks for managing state.
 - **CSS**: Provides a clean and modern design for the application, with responsive styles.
 - **JavaScript**: Handles the logic behind adding, updating, and deleting tasks dynamically.
-  
+
+## Live Demo
+
+You can check out the live demo of the app [here](https://todo-list-app-in-react.onrender.com/).
